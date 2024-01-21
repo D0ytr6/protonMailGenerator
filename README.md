@@ -1,4 +1,4 @@
-# protonMailGenerator
+![image_2024-01-21_18-24-02](https://github.com/D0ytr6/protonMailGenerator/assets/91464447/37c8a62a-01fb-43ab-a20c-1c754f3dd29e)# protonMailGenerator
 A E-Mail Generator
 
 
@@ -36,3 +36,9 @@ enjoy!
 
 #### EXCUSES:
 My first python code ever kinda bad but it works. Rn I am working on a selenium version of this because using the webbrowser and pyautogui is really bad for this usecase ig.
+
+
+#### UPDATED
+Mozilla version work good. Chrome version i could not test because a proton rejects my attempts to register. 
+![image_2024-01-21_18-24-02](https://github.com/D0ytr6/protonMailGenerator/assets/91464447/49fc6897-8808-4b09-a96f-37b12999d825)
+
