@@ -1,4 +1,4 @@
-![image_2024-01-21_18-24-02](https://github.com/D0ytr6/protonMailGenerator/assets/91464447/37c8a62a-01fb-43ab-a20c-1c754f3dd29e)# protonMailGenerator
+# protonMailGenerator
 A E-Mail Generator
 
 
